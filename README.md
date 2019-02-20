@@ -10,3 +10,7 @@
 2016
 ---
 * April 23rd - [Back to the Future - Hot Reloading and Time Travel with Cycle.js](https://www.youtube.com/watch?v=rbrnyC5fXMM) (26min)
+
+2018
+---
+* October 18th - [How to fail with JavaScript](https://www.youtube.com/watch?v=w_-93M6A0Io)
